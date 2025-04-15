@@ -4,6 +4,9 @@
 
 This JavaScript application fetches the user's current location using the Geolocation API and retrieves weather data from the OpenWeatherMap API. The weather data is displayed on a webpage, including temperature, weather description, and timezone. Users can toggle between Celsius and Fahrenheit.
 
+## Live Demo
+https://kip-rotich46.github.io/Weather-App/
+
 ## Features
 
 - Fetches the user's current geographical coordinates.
